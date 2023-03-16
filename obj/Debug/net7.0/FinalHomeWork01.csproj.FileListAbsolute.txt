@@ -1,0 +1,15 @@
+/Users/mashinistv/Documents/GeekBrain/FinalHomeWork01/bin/Debug/net7.0/FinalHomeWork01
+/Users/mashinistv/Documents/GeekBrain/FinalHomeWork01/bin/Debug/net7.0/FinalHomeWork01.deps.json
+/Users/mashinistv/Documents/GeekBrain/FinalHomeWork01/bin/Debug/net7.0/FinalHomeWork01.runtimeconfig.json
+/Users/mashinistv/Documents/GeekBrain/FinalHomeWork01/bin/Debug/net7.0/FinalHomeWork01.dll
+/Users/mashinistv/Documents/GeekBrain/FinalHomeWork01/bin/Debug/net7.0/FinalHomeWork01.pdb
+/Users/mashinistv/Documents/GeekBrain/FinalHomeWork01/obj/Debug/net7.0/FinalHomeWork01.csproj.AssemblyReference.cache
+/Users/mashinistv/Documents/GeekBrain/FinalHomeWork01/obj/Debug/net7.0/FinalHomeWork01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mashinistv/Documents/GeekBrain/FinalHomeWork01/obj/Debug/net7.0/FinalHomeWork01.AssemblyInfoInputs.cache
+/Users/mashinistv/Documents/GeekBrain/FinalHomeWork01/obj/Debug/net7.0/FinalHomeWork01.AssemblyInfo.cs
+/Users/mashinistv/Documents/GeekBrain/FinalHomeWork01/obj/Debug/net7.0/FinalHomeWork01.csproj.CoreCompileInputs.cache
+/Users/mashinistv/Documents/GeekBrain/FinalHomeWork01/obj/Debug/net7.0/FinalHomeWork01.dll
+/Users/mashinistv/Documents/GeekBrain/FinalHomeWork01/obj/Debug/net7.0/refint/FinalHomeWork01.dll
+/Users/mashinistv/Documents/GeekBrain/FinalHomeWork01/obj/Debug/net7.0/FinalHomeWork01.pdb
+/Users/mashinistv/Documents/GeekBrain/FinalHomeWork01/obj/Debug/net7.0/FinalHomeWork01.genruntimeconfig.cache
+/Users/mashinistv/Documents/GeekBrain/FinalHomeWork01/obj/Debug/net7.0/ref/FinalHomeWork01.dll
